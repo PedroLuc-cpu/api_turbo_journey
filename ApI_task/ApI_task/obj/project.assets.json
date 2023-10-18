@@ -1528,19 +1528,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\": {}
+    "C:\\Users\\dev01\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro Lucas\\Documents\\APIs\\api_task\\ApI_task\\ApI_task\\ApI_task.csproj",
+      "projectUniqueName": "C:\\Users\\dev01\\Documents\\Pedro Lucas\\api_turbo_journey\\ApI_task\\ApI_task\\ApI_task.csproj",
       "projectName": "ApI_task",
-      "projectPath": "C:\\Users\\Pedro Lucas\\Documents\\APIs\\api_task\\ApI_task\\ApI_task\\ApI_task.csproj",
-      "packagesPath": "C:\\Users\\Pedro Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro Lucas\\Documents\\APIs\\api_task\\ApI_task\\ApI_task\\obj\\",
+      "projectPath": "C:\\Users\\dev01\\Documents\\Pedro Lucas\\api_turbo_journey\\ApI_task\\ApI_task\\ApI_task.csproj",
+      "packagesPath": "C:\\Users\\dev01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev01\\Documents\\Pedro Lucas\\api_turbo_journey\\ApI_task\\ApI_task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pedro Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dev01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
